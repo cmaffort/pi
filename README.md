@@ -1,2 +1,3 @@
-# pi
-Estrutura básica do Projeto Interdisciplinar
+# Projeto Interdisciplinar
+
+Descrição do Projeto Interdisciplinar, como objetivos, funcionalidades / casos de uso etc.
